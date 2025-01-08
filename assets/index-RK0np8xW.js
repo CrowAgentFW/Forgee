@@ -18164,7 +18164,7 @@ const Wk = {
     title: "Introduction",
     content: [{
         type: "text",
-        content: "Forge is a powerful platform for creating and managing AI agents enhanced with neural networks. Our platform enables you to build sophisticated AI solutions with customizable personalities, specialized capabilities, and seamless chat interactions."
+        content: "Hammer is a powerful platform for creating and managing AI agents enhanced with neural networks. Our platform enables you to build sophisticated AI solutions with customizable personalities, specialized capabilities, and seamless chat interactions."
     }, {
         type: "text",
         content: `Key Features:
@@ -18182,7 +18182,7 @@ const Wk = {
     title: "Quick Start",
     content: [{
         type: "text",
-        content: "Get started with Forge in minutes. Follow these steps to create your first AI agent:"
+        content: "Get started with Hammer in minutes. Follow these steps to create your first AI agent:"
     }, {
         type: "code",
         language: "typescript",
@@ -18211,7 +18211,7 @@ const newAgent = await createAgent({
     title: "Installation",
     content: [{
         type: "text",
-        content: "Forge is a web-based platform that requires no installation. Simply visit the platform and start creating agents. However, if you want to integrate Forge into your own application, you'll need an OpenAI API key."
+        content: "Hammer is a web-based platform that requires no installation. Simply visit the platform and start creating agents. However, if you want to integrate Hammer into your own application, you'll need an OpenAI API key."
     }, {
         type: "code",
         language: "typescript",
