@@ -16905,7 +16905,7 @@ function dk() {
                                 className: "absolute -left-2 top-1/2 -translate-y-1/2 w-8 h-8 opacity-50"
                             }), f.jsx("span", {
                                 className: "text-2xl font-bold text-white pl-6",
-                                children: "AGENT FORGE"
+                                children: "HAMMER"
                             })]
                         })
                     })
@@ -16932,7 +16932,7 @@ function dk() {
                             children: "Docs"
                         })
                     }), f.jsx(Er, {
-                        href: "https://x.com/ForgeAgent",
+                        href: "https://x.com/Hammer_Agent_",
                         icon: f.jsx(bv, {
                             className: "w-4 h-4 text-white/70"
                         }),
@@ -16998,7 +16998,7 @@ function fk() {
                 transition: {
                     duration: .5
                 },
-                children: "FORGE"
+                children: "HAMMER"
             }), f.jsxs("div", {
                 className: "relative h-0.5 bg-white/10 mt-8 w-[200px] mx-auto overflow-hidden",
                 children: [f.jsx(j.div, {
@@ -17111,7 +17111,7 @@ function pk() {
                     className: "relative inline-block",
                     children: [f.jsx("h1", {
                         className: "forge-title text-7xl sm:text-8xl md:text-8xl tracking-tight relative z-10",
-                        children: "AGENT FORGE"
+                        children: "HAMMER"
                     }), f.jsx("p", {
                         className: "text-xl sm:text-2xl text-white/60 max-w-3xl mx-auto mt-8",
                         children: "Create and deploy advanced AI agents with unique personalities"
@@ -18397,7 +18397,7 @@ const removeAgent = (agentName: string) => {
     title: "API Security",
     content: [{
         type: "text",
-        content: `Forge implements multiple security measures to protect your agents and data:
+        content: `Hammer implements multiple security measures to protect your agents and data:
 
 - API Key Validation
 - Request/Response Validation
@@ -18434,7 +18434,7 @@ const validateRequest = (messages: ChatMessage[]) => {
     title: "Rate Protection",
     content: [{
         type: "text",
-        content: `Rate protection in Forge includes:
+        content: `Rate protection in Hammer includes:
 
 - Message Limits (10/minute)
 - Cooldown Periods
@@ -18476,7 +18476,7 @@ const validateRequest = (messages: ChatMessage[]) => {
     title: "Data Storage",
     content: [{
         type: "text",
-        content: `Forge uses local storage for data persistence:
+        content: `Hammer uses local storage for data persistence:
 
 - Agent Profiles
 - Chat Histories
@@ -18514,7 +18514,7 @@ const saveChatMessage = (agentId: string, message: ChatMessage) => {
     title: "Image Handling",
     content: [{
         type: "text",
-        content: `Image handling in Forge includes:
+        content: `Image handling in Hammer includes:
 
 - Base64 Image Encoding
 - Size Validation (max 5MB)
@@ -18964,7 +18964,7 @@ function lA({onSearchResultClick: e}) {
                 }), f.jsxs("div", {
                     className: "flex items-center gap-4",
                     children: [f.jsx(Er, {
-                        href: "https://x.com/ForgeAgent",
+                        href: "https://x.com/Hammer_Agent_",
                         icon: f.jsx(bv, {
                             className: "w-4 h-4 text-white/70"
                         }),
