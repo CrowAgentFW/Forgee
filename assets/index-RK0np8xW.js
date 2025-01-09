@@ -16900,7 +16900,7 @@ function dk() {
                         children: f.jsxs("div", {
                             className: "relative",
                             children: [f.jsx("img", {
-                                src: "/Forgee/images/hammer.png",
+                                src: "/images/hammer.png",
                                 alt: "hammer",
                                 className: "absolute -left-2 top-1/2 -translate-y-1/2 w-8 h-8 opacity-50"
                             }), f.jsx("span", {
